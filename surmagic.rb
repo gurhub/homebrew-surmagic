@@ -6,7 +6,7 @@ class Surmagic < Formula
   homepage "https://github.com/gurhub/surmagic"
   url "https://github.com/gurhub/surmagic/archive/v1.0.1.tar.gz"
   sha256 "9484bae4c03d26550ea44ebd1dbab3a3e410b85bcbcdd3ee3af212109aaf731a"
-  license "GPL-3.0"
+  license "MIT"
 
   def install
     bin.install("surmagic")
