@@ -5,7 +5,7 @@ class Surmagic < Formula
   desc "🚀 Create XCFrameworks with ease! A Command Line Tool to create XCFrameworks for multiple platforms at one shot! The better way to deal with XCFrameworks for iOS, Mac Catalyst, tvOS, macOS, and watchOS."
   homepage "https://github.com/gurhub/surmagic"
   url "https://github.com/gurhub/surmagic/archive/refs/tags/v1.2.7.tar.gz"
-  sha256 "106d10fb693afd2f862bf58a3e19572a18ff955f0e75f3a93e1f4cc4ae9864e6"
+  sha256 "db9e721969f57750c676b2d6514cd7814b5697ccbf00eb31042006b5b21da34e"
   license "MIT"
 
   def install
